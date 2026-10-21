@@ -2,8 +2,7 @@
 
 A) First exercise in the course Cyber Security is to create a web page using Github.
 
-  $ ls
-    hello-jp.md
+  `TESTI`.
 
 ## References
 
